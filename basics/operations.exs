@@ -58,7 +58,7 @@ IO.puts "=== compares their data types"
 
 IO.puts ""
 
-IO.puts "In elixir, you can compare any types when you use comparision operations"
+IO.puts "In elixir, you can compare any types when you use comparision operators"
 IO.puts "sort order: number < atom < reference < function < port < pid < tuple < map < list < bitstring"
 IO.puts :atom > 2
 
