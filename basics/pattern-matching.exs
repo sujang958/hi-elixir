@@ -28,3 +28,11 @@ cond do
   2 + 2 == 4 ->
     IO.puts("Yup")
 end
+
+if true do
+
+else if true
+
+else
+
+end
